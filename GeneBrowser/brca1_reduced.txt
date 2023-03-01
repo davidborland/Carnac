@@ -1,0 +1,867 @@
+NM_007297.3
+-
+2254	BRCA1	BRCA1
+1	2
+NP_009228.2
+282	5732
+41196312	41197694	UTR-3	7115	5733
+41197695	41197819	exon	5732	5608	5451	5327
+41197820	41199659	intron
+41199660	41199720	exon	5607	5547	5326	5266
+41199721	41201137	intron
+41201138	41201211	exon	5546	5473	5265	5192
+41201212	41203079	intron
+41203080	41203134	exon	5472	5418	5191	5137
+41203135	41209068	intron
+41209069	41209152	exon	5417	5334	5136	5053
+41209153	41215349	intron
+41215350	41215390	exon	5333	5293	5052	5012
+41215391	41215890	intron
+41215891	41215968	exon	5292	5215	5011	4934
+41215969	41219624	intron
+41219625	41219712	exon	5214	5127	4933	4846
+41219713	41222944	intron
+41222945	41223255	exon	5126	4816	4845	4535
+41223256	41226347	intron
+41226348	41226538	exon	4815	4625	4534	4344
+41226539	41228504	intron
+41228505	41228631	exon	4624	4498	4343	4217
+41228632	41234420	intron
+41234421	41234592	exon	4497	4326	4216	4045
+41234593	41242960	intron
+41242961	41243049	exon	4325	4237	4044	3956
+41243050	41243451	intron
+41243452	41246877	exon	4236	811	3955	530
+41246878	41247862	intron
+41247863	41247939	exon	810	734	529	453
+41247940	41249260	intron
+41249261	41249306	exon	733	688	452	407
+41249307	41251791	intron
+41251792	41251897	exon	687	582	406	301
+41251898	41256138	intron
+41256139	41256278	exon	581	442	300	161
+41256279	41256884	intron
+41256885	41256973	exon	441	353	160	72
+41256974	41258472	intron
+41258473	41258543	exon	352	282	71	1
+41258544	41258550	UTR-5	281	275
+41258551	41276033	intron
+41276034	41276132	UTR-5	274	176
+41276133	41277293	intron
+41277294	41277468	UTR-5	175	1
+
+1587657	61	61	NM_007297.3	alternative transcription start site
+1587658	273	275	NM_007297.3	upstream in-frame stop codon
+1587659	1170	1661	NM_007297.3	Serine-rich domain associated with BRCT; Region: BRCT_assoc; pfam12820
+1587660	2103	3074	NM_007297.3	Ethylene insensitive 3; Region: EIN3; pfam04873
+1587664	7090	7095	NM_007297.3	
+1587665	7115	7115	NM_007297.3	
+1587661	5427	5666	NM_007297.3	Breast Cancer Suppressor Protein (BRCA1), carboxy-terminal domain. The BRCT domain is found within many DNA damage repair and cell cycle checkpoint proteins. The unique diversity of this domain superfamily allows BRCT modules to interact forming homo...; Region: BRCT; cd00027
+1587662	5472	5474	NM_007297.3	Dimer interface [polypeptide binding]; other site
+1587662	5484	5486	NM_007297.3	Dimer interface [polypeptide binding]; other site
+1587662	5493	5495	NM_007297.3	Dimer interface [polypeptide binding]; other site
+1587662	5502	5504	NM_007297.3	Dimer interface [polypeptide binding]; other site
+1587662	5508	5510	NM_007297.3	Dimer interface [polypeptide binding]; other site
+1587663	5649	5651	NM_007297.3	BRCT sequence motif; other site
+1587663	5661	5663	NM_007297.3	BRCT sequence motif; other site
+
+***
+
+NM_007297.3
+-
+2254	BRCA1	BRCA1
+2	2
+NP_009228.2
+282	5732
+41196312	41197694	UTR-3	7115	5733
+41197695	41197819	exon	5732	5608	5451	5327
+41197820	41199659	intron
+41199660	41199720	exon	5607	5547	5326	5266
+41199721	41201137	intron
+41201138	41201211	exon	5546	5473	5265	5192
+41201212	41203079	intron
+41203080	41203134	exon	5472	5418	5191	5137
+41203135	41209068	intron
+41209069	41209152	exon	5417	5334	5136	5053
+41209153	41215349	intron
+41215350	41215390	exon	5333	5293	5052	5012
+41215391	41215890	intron
+41215891	41215968	exon	5292	5215	5011	4934
+41215969	41219624	intron
+41219625	41219712	exon	5214	5127	4933	4846
+41219713	41222944	intron
+41222945	41223255	exon	5126	4816	4845	4535
+41223256	41226347	intron
+41226348	41226538	exon	4815	4625	4534	4344
+41226539	41228504	intron
+41228505	41228631	exon	4624	4498	4343	4217
+41228632	41234420	intron
+41234421	41234592	exon	4497	4326	4216	4045
+41234593	41242960	intron
+41242961	41243049	exon	4325	4237	4044	3956
+41243050	41243451	intron
+41243452	41246877	exon	4236	811	3955	530
+41246878	41247862	intron
+41247863	41247939	exon	810	734	529	453
+41247940	41249260	intron
+41249261	41249306	exon	733	688	452	407
+41249307	41251791	intron
+41251792	41251897	exon	687	582	406	301
+41251898	41256138	intron
+41256139	41256278	exon	581	442	300	161
+41256279	41256884	intron
+41256885	41256973	exon	441	353	160	72
+41256974	41258472	intron
+41258473	41258543	exon	352	282	71	1
+41258544	41258550	UTR-5	281	275
+41258551	41276033	intron
+41276034	41276132	UTR-5	274	176
+41276133	41277293	intron
+41277294	41277468	UTR-5	175	1
+
+1587657	61	61	NM_007297.3	alternative transcription start site
+1587658	273	275	NM_007297.3	upstream in-frame stop codon
+1587659	1170	1661	NM_007297.3	Serine-rich domain associated with BRCT; Region: BRCT_assoc; pfam12820
+1587660	2103	3074	NM_007297.3	Ethylene insensitive 3; Region: EIN3; pfam04873
+1587664	7090	7095	NM_007297.3	
+1587665	7115	7115	NM_007297.3	
+1587661	5427	5666	NM_007297.3	Breast Cancer Suppressor Protein (BRCA1), carboxy-terminal domain. The BRCT domain is found within many DNA damage repair and cell cycle checkpoint proteins. The unique diversity of this domain superfamily allows BRCT modules to interact forming homo...; Region: BRCT; cd00027
+1587662	5472	5474	NM_007297.3	Dimer interface [polypeptide binding]; other site
+1587662	5484	5486	NM_007297.3	Dimer interface [polypeptide binding]; other site
+1587662	5493	5495	NM_007297.3	Dimer interface [polypeptide binding]; other site
+1587662	5502	5504	NM_007297.3	Dimer interface [polypeptide binding]; other site
+1587662	5508	5510	NM_007297.3	Dimer interface [polypeptide binding]; other site
+1587663	5649	5651	NM_007297.3	BRCT sequence motif; other site
+1587663	5661	5663	NM_007297.3	BRCT sequence motif; other site
+
+***
+
+NM_007299.3
+-
+2254	BRCA1	BRCA1
+1	2
+NP_009230.2
+195	2294
+41196312	41197800	UTR-3	3783	2295
+41197801	41197819	exon	2294	2276	2100	2082
+41197820	41199659	intron
+41199660	41199720	exon	2275	2215	2081	2021
+41199721	41203079	intron
+41203080	41203134	exon	2214	2160	2020	1966
+41203135	41209068	intron
+41209069	41209152	exon	2159	2076	1965	1882
+41209153	41215349	intron
+41215350	41215390	exon	2075	2035	1881	1841
+41215391	41215890	intron
+41215891	41215968	exon	2034	1957	1840	1763
+41215969	41219624	intron
+41219625	41219712	exon	1956	1869	1762	1675
+41219713	41222944	intron
+41222945	41223255	exon	1868	1558	1674	1364
+41223256	41226347	intron
+41226348	41226538	exon	1557	1367	1363	1173
+41226539	41228504	intron
+41228505	41228628	exon	1366	1243	1172	1049
+41228629	41234420	intron
+41234421	41234592	exon	1242	1071	1048	877
+41234593	41242960	intron
+41242961	41243049	exon	1070	982	876	788
+41243050	41246760	intron
+41246761	41246877	exon	981	865	787	671
+41246878	41247862	intron
+41247863	41247939	exon	864	788	670	594
+41247940	41249260	intron
+41249261	41249306	exon	787	742	593	548
+41249307	41251791	intron
+41251792	41251897	exon	741	636	547	442
+41251898	41256138	intron
+41256139	41256278	exon	635	496	441	302
+41256279	41256884	intron
+41256885	41256973	exon	495	407	301	213
+41256974	41258472	intron
+41258473	41258550	exon	406	329	212	135
+41258551	41267742	intron
+41267743	41267796	exon	328	275	134	81
+41267797	41276033	intron
+41276034	41276113	exon	274	195	80	1
+41276114	41276132	UTR-5	194	176
+41276133	41277293	intron
+41277294	41277468	UTR-5	175	1
+
+1588267	61	61	NM_007299.3	alternative transcription start site
+1588268	132	134	NM_007299.3	upstream in-frame stop codon
+1588270	261	398	NM_007299.3	RING-finger (Really Interesting New Gene) domain, a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc; defined by the 'cross-brace' motif C-X2-C-X(9-39)-C-X(1-3)- H-X(2-3)-(N/C/H)-X2-C-X(4-48)C-X2-C; probably involved in...; Region: RING; cd00162
+1588271	264	266	NM_007299.3	cross-brace motif; other site
+1588271	273	275	NM_007299.3	cross-brace motif; other site
+1588271	309	311	NM_007299.3	cross-brace motif; other site
+1588271	315	317	NM_007299.3	cross-brace motif; other site
+1588271	324	326	NM_007299.3	cross-brace motif; other site
+1588271	333	335	NM_007299.3	cross-brace motif; other site
+1588271	375	377	NM_007299.3	cross-brace motif; other site
+1588271	384	386	NM_007299.3	cross-brace motif; other site
+1588272	3758	3763	NM_007299.3	
+1588273	3783	3783	NM_007299.3	
+1588269	252	389	NM_007299.3	Zinc finger, C3HC4 type (RING finger); Region: zf-C3HC4_2; pfam13923
+
+***
+
+NM_007299.3
+-
+2254	BRCA1	BRCA1
+2	2
+NP_009230.2
+195	2294
+41196312	41197800	UTR-3	3783	2295
+41197801	41197819	exon	2294	2276	2100	2082
+41197820	41199659	intron
+41199660	41199720	exon	2275	2215	2081	2021
+41199721	41203079	intron
+41203080	41203134	exon	2214	2160	2020	1966
+41203135	41209068	intron
+41209069	41209152	exon	2159	2076	1965	1882
+41209153	41215349	intron
+41215350	41215390	exon	2075	2035	1881	1841
+41215391	41215890	intron
+41215891	41215968	exon	2034	1957	1840	1763
+41215969	41219624	intron
+41219625	41219712	exon	1956	1869	1762	1675
+41219713	41222944	intron
+41222945	41223255	exon	1868	1558	1674	1364
+41223256	41226347	intron
+41226348	41226538	exon	1557	1367	1363	1173
+41226539	41228504	intron
+41228505	41228628	exon	1366	1243	1172	1049
+41228629	41234420	intron
+41234421	41234592	exon	1242	1071	1048	877
+41234593	41242960	intron
+41242961	41243049	exon	1070	982	876	788
+41243050	41246760	intron
+41246761	41246877	exon	981	865	787	671
+41246878	41247862	intron
+41247863	41247939	exon	864	788	670	594
+41247940	41249260	intron
+41249261	41249306	exon	787	742	593	548
+41249307	41251791	intron
+41251792	41251897	exon	741	636	547	442
+41251898	41256138	intron
+41256139	41256278	exon	635	496	441	302
+41256279	41256884	intron
+41256885	41256973	exon	495	407	301	213
+41256974	41258472	intron
+41258473	41258550	exon	406	329	212	135
+41258551	41267742	intron
+41267743	41267796	exon	328	275	134	81
+41267797	41276033	intron
+41276034	41276113	exon	274	195	80	1
+41276114	41276132	UTR-5	194	176
+41276133	41277293	intron
+41277294	41277468	UTR-5	175	1
+
+1588267	61	61	NM_007299.3	alternative transcription start site
+1588268	132	134	NM_007299.3	upstream in-frame stop codon
+1588270	261	398	NM_007299.3	RING-finger (Really Interesting New Gene) domain, a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc; defined by the 'cross-brace' motif C-X2-C-X(9-39)-C-X(1-3)- H-X(2-3)-(N/C/H)-X2-C-X(4-48)C-X2-C; probably involved in...; Region: RING; cd00162
+1588271	264	266	NM_007299.3	cross-brace motif; other site
+1588271	273	275	NM_007299.3	cross-brace motif; other site
+1588271	309	311	NM_007299.3	cross-brace motif; other site
+1588271	315	317	NM_007299.3	cross-brace motif; other site
+1588271	324	326	NM_007299.3	cross-brace motif; other site
+1588271	333	335	NM_007299.3	cross-brace motif; other site
+1588271	375	377	NM_007299.3	cross-brace motif; other site
+1588271	384	386	NM_007299.3	cross-brace motif; other site
+1588272	3758	3763	NM_007299.3	
+1588273	3783	3783	NM_007299.3	
+1588269	252	389	NM_007299.3	Zinc finger, C3HC4 type (RING finger); Region: zf-C3HC4_2; pfam13923
+
+***
+
+NM_007298.3
+-
+2254	BRCA1	BRCA1
+1	2
+NP_009229.2
+20	2299
+41196312	41197694	UTR-3	3682	2300
+41197695	41197819	exon	2299	2175	2280	2156
+41197820	41199659	intron
+41199660	41199720	exon	2174	2114	2155	2095
+41199721	41201137	intron
+41201138	41201211	exon	2113	2040	2094	2021
+41201212	41203079	intron
+41203080	41203134	exon	2039	1985	2020	1966
+41203135	41209068	intron
+41209069	41209152	exon	1984	1901	1965	1882
+41209153	41215349	intron
+41215350	41215390	exon	1900	1860	1881	1841
+41215391	41215890	intron
+41215891	41215968	exon	1859	1782	1840	1763
+41215969	41219624	intron
+41219625	41219712	exon	1781	1694	1762	1675
+41219713	41222944	intron
+41222945	41223255	exon	1693	1383	1674	1364
+41223256	41226347	intron
+41226348	41226538	exon	1382	1192	1363	1173
+41226539	41228504	intron
+41228505	41228628	exon	1191	1068	1172	1049
+41228629	41234420	intron
+41234421	41234592	exon	1067	896	1048	877
+41234593	41242960	intron
+41242961	41243049	exon	895	807	876	788
+41243050	41246760	intron
+41246761	41246877	exon	806	690	787	671
+41246878	41247862	intron
+41247863	41247939	exon	689	613	670	594
+41247940	41249260	intron
+41249261	41249306	exon	612	567	593	548
+41249307	41251791	intron
+41251792	41251897	exon	566	461	547	442
+41251898	41256138	intron
+41256139	41256278	exon	460	321	441	302
+41256279	41256884	intron
+41256885	41256973	exon	320	232	301	213
+41256974	41258472	intron
+41258473	41258550	exon	231	154	212	135
+41258551	41267742	intron
+41267743	41267796	exon	153	100	134	81
+41267797	41276033	intron
+41276034	41276113	exon	99	20	80	1
+41276114	41276132	UTR-5	19	1
+
+1587965	86	223	NM_007298.3	RING-finger (Really Interesting New Gene) domain, a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc; defined by the 'cross-brace' motif C-X2-C-X(9-39)-C-X(1-3)- H-X(2-3)-(N/C/H)-X2-C-X(4-48)C-X2-C; probably involved in...; Region: RING; cd00162
+1587966	89	91	NM_007298.3	cross-brace motif; other site
+1587966	98	100	NM_007298.3	cross-brace motif; other site
+1587966	134	136	NM_007298.3	cross-brace motif; other site
+1587966	140	142	NM_007298.3	cross-brace motif; other site
+1587966	149	151	NM_007298.3	cross-brace motif; other site
+1587966	158	160	NM_007298.3	cross-brace motif; other site
+1587966	200	202	NM_007298.3	cross-brace motif; other site
+1587966	209	211	NM_007298.3	cross-brace motif; other site
+1587970	3657	3662	NM_007298.3	
+1587971	3682	3682	NM_007298.3	
+1587964	77	214	NM_007298.3	Zinc finger, C3HC4 type (RING finger); Region: zf-C3HC4_2; pfam13923
+1587967	1994	2233	NM_007298.3	Breast Cancer Suppressor Protein (BRCA1), carboxy-terminal domain. The BRCT domain is found within many DNA damage repair and cell cycle checkpoint proteins. The unique diversity of this domain superfamily allows BRCT modules to interact forming homo...; Region: BRCT; cd00027
+1587968	2039	2041	NM_007298.3	Dimer interface [polypeptide binding]; other site
+1587968	2051	2053	NM_007298.3	Dimer interface [polypeptide binding]; other site
+1587968	2060	2062	NM_007298.3	Dimer interface [polypeptide binding]; other site
+1587968	2069	2071	NM_007298.3	Dimer interface [polypeptide binding]; other site
+1587968	2075	2077	NM_007298.3	Dimer interface [polypeptide binding]; other site
+1587969	2216	2218	NM_007298.3	BRCT sequence motif; other site
+1587969	2228	2230	NM_007298.3	BRCT sequence motif; other site
+
+***
+
+NM_007298.3
+-
+2254	BRCA1	BRCA1
+2	2
+NP_009229.2
+20	2299
+41196312	41197694	UTR-3	3682	2300
+41197695	41197819	exon	2299	2175	2280	2156
+41197820	41199659	intron
+41199660	41199720	exon	2174	2114	2155	2095
+41199721	41201137	intron
+41201138	41201211	exon	2113	2040	2094	2021
+41201212	41203079	intron
+41203080	41203134	exon	2039	1985	2020	1966
+41203135	41209068	intron
+41209069	41209152	exon	1984	1901	1965	1882
+41209153	41215349	intron
+41215350	41215390	exon	1900	1860	1881	1841
+41215391	41215890	intron
+41215891	41215968	exon	1859	1782	1840	1763
+41215969	41219624	intron
+41219625	41219712	exon	1781	1694	1762	1675
+41219713	41222944	intron
+41222945	41223255	exon	1693	1383	1674	1364
+41223256	41226347	intron
+41226348	41226538	exon	1382	1192	1363	1173
+41226539	41228504	intron
+41228505	41228628	exon	1191	1068	1172	1049
+41228629	41234420	intron
+41234421	41234592	exon	1067	896	1048	877
+41234593	41242960	intron
+41242961	41243049	exon	895	807	876	788
+41243050	41246760	intron
+41246761	41246877	exon	806	690	787	671
+41246878	41247862	intron
+41247863	41247939	exon	689	613	670	594
+41247940	41249260	intron
+41249261	41249306	exon	612	567	593	548
+41249307	41251791	intron
+41251792	41251897	exon	566	461	547	442
+41251898	41256138	intron
+41256139	41256278	exon	460	321	441	302
+41256279	41256884	intron
+41256885	41256973	exon	320	232	301	213
+41256974	41258472	intron
+41258473	41258550	exon	231	154	212	135
+41258551	41267742	intron
+41267743	41267796	exon	153	100	134	81
+41267797	41276033	intron
+41276034	41276113	exon	99	20	80	1
+41276114	41276132	UTR-5	19	1
+
+1587965	86	223	NM_007298.3	RING-finger (Really Interesting New Gene) domain, a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc; defined by the 'cross-brace' motif C-X2-C-X(9-39)-C-X(1-3)- H-X(2-3)-(N/C/H)-X2-C-X(4-48)C-X2-C; probably involved in...; Region: RING; cd00162
+1587966	89	91	NM_007298.3	cross-brace motif; other site
+1587966	98	100	NM_007298.3	cross-brace motif; other site
+1587966	134	136	NM_007298.3	cross-brace motif; other site
+1587966	140	142	NM_007298.3	cross-brace motif; other site
+1587966	149	151	NM_007298.3	cross-brace motif; other site
+1587966	158	160	NM_007298.3	cross-brace motif; other site
+1587966	200	202	NM_007298.3	cross-brace motif; other site
+1587966	209	211	NM_007298.3	cross-brace motif; other site
+1587970	3657	3662	NM_007298.3	
+1587971	3682	3682	NM_007298.3	
+1587964	77	214	NM_007298.3	Zinc finger, C3HC4 type (RING finger); Region: zf-C3HC4_2; pfam13923
+1587967	1994	2233	NM_007298.3	Breast Cancer Suppressor Protein (BRCA1), carboxy-terminal domain. The BRCT domain is found within many DNA damage repair and cell cycle checkpoint proteins. The unique diversity of this domain superfamily allows BRCT modules to interact forming homo...; Region: BRCT; cd00027
+1587968	2039	2041	NM_007298.3	Dimer interface [polypeptide binding]; other site
+1587968	2051	2053	NM_007298.3	Dimer interface [polypeptide binding]; other site
+1587968	2060	2062	NM_007298.3	Dimer interface [polypeptide binding]; other site
+1587968	2069	2071	NM_007298.3	Dimer interface [polypeptide binding]; other site
+1587968	2075	2077	NM_007298.3	Dimer interface [polypeptide binding]; other site
+1587969	2216	2218	NM_007298.3	BRCT sequence motif; other site
+1587969	2228	2230	NM_007298.3	BRCT sequence motif; other site
+
+***
+
+NM_007300.3
+-
+2254	BRCA1	BRCA1
+1	2
+NP_009231.2
+233	5887
+41196312	41197694	UTR-3	7270	5888
+41197695	41197819	exon	5887	5763	5655	5531
+41197820	41199659	intron
+41199660	41199720	exon	5762	5702	5530	5470
+41199721	41201137	intron
+41201138	41201211	exon	5701	5628	5469	5396
+41201212	41203079	intron
+41203080	41203134	exon	5627	5573	5395	5341
+41203135	41209068	intron
+41209069	41209152	exon	5572	5489	5340	5257
+41209153	41215349	intron
+41215350	41215390	exon	5488	5448	5256	5216
+41215391	41215890	intron
+41215891	41215968	exon	5447	5370	5215	5138
+41215969	41219624	intron
+41219625	41219712	exon	5369	5282	5137	5050
+41219713	41222944	intron
+41222945	41223255	exon	5281	4971	5049	4739
+41223256	41226347	intron
+41226348	41226538	exon	4970	4780	4738	4548
+41226539	41228504	intron
+41228505	41228628	exon	4779	4656	4547	4424
+41228629	41231350	intron
+41231351	41231416	exon	4655	4590	4423	4358
+41231417	41234420	intron
+41234421	41234592	exon	4589	4418	4357	4186
+41234593	41242960	intron
+41242961	41243049	exon	4417	4329	4185	4097
+41243050	41243451	intron
+41243452	41246877	exon	4328	903	4096	671
+41246878	41247862	intron
+41247863	41247939	exon	902	826	670	594
+41247940	41249260	intron
+41249261	41249306	exon	825	780	593	548
+41249307	41251791	intron
+41251792	41251897	exon	779	674	547	442
+41251898	41256138	intron
+41256139	41256278	exon	673	534	441	302
+41256279	41256884	intron
+41256885	41256973	exon	533	445	301	213
+41256974	41258472	intron
+41258473	41258550	exon	444	367	212	135
+41258551	41267742	intron
+41267743	41267796	exon	366	313	134	81
+41267797	41276033	intron
+41276034	41276113	exon	312	233	80	1
+41276114	41276132	UTR-5	232	214
+41276133	41277287	intron
+41277288	41277500	UTR-5	213	1
+
+1673090	93	93	NM_007300.3	alternative transcription start site
+1673091	209	211	NM_007300.3	upstream in-frame stop codon
+1673093	299	436	NM_007300.3	RING-finger (Really Interesting New Gene) domain, a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc; defined by the 'cross-brace' motif C-X2-C-X(9-39)-C-X(1-3)- H-X(2-3)-(N/C/H)-X2-C-X(4-48)C-X2-C; probably involved in...; Region: RING; cd00162
+1673094	302	304	NM_007300.3	cross-brace motif; other site
+1673094	311	313	NM_007300.3	cross-brace motif; other site
+1673094	347	349	NM_007300.3	cross-brace motif; other site
+1673094	353	355	NM_007300.3	cross-brace motif; other site
+1673094	362	364	NM_007300.3	cross-brace motif; other site
+1673094	371	373	NM_007300.3	cross-brace motif; other site
+1673094	413	415	NM_007300.3	cross-brace motif; other site
+1673094	422	424	NM_007300.3	cross-brace motif; other site
+1673096	1154	1156	NM_007300.3	Phosphoserine, by AURKA; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673097	1262	1753	NM_007300.3	Serine-rich domain associated with BRCT; Region: BRCT_assoc; pfam12820
+1673098	1415	1417	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673099	1424	1426	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673101	2195	3166	NM_007300.3	Ethylene insensitive 3; Region: EIN3; pfam04873
+1673103	2489	2491	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673105	3659	3661	NM_007300.3	Phosphoserine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673106	3863	3865	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673107	3881	3883	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673108	3884	3886	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673109	4070	4072	NM_007300.3	Phosphoserine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673111	4238	4240	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673112	4256	4258	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673113	4391	4393	NM_007300.3	Phosphoserine, by ATM and ATR; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673114	4412	4414	NM_007300.3	Phosphothreonine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673115	4421	4504	NM_007300.3	propagated from UniProtKB/Swiss-Prot (P38398.2); Region: Interaction with PALB2
+1673116	4499	4501	NM_007300.3	Phosphoserine, by ATM and ATR; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673117	4664	4666	NM_007300.3	Phosphoserine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673118	4865	4867	NM_007300.3	Phosphoserine, by ATM; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673122	7245	7250	NM_007300.3	
+1673123	7270	7270	NM_007300.3	
+1673092	290	427	NM_007300.3	Zinc finger, C3HC4 type (RING finger); Region: zf-C3HC4_2; pfam13923
+1673095	572	574	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673100	1499	1501	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673102	2312	2314	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673104	3194	3196	NM_007300.3	Phosphoserine, by CHEK2; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673110	4214	4216	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673119	5582	5821	NM_007300.3	Breast Cancer Suppressor Protein (BRCA1), carboxy-terminal domain. The BRCT domain is found within many DNA damage repair and cell cycle checkpoint proteins. The unique diversity of this domain superfamily allows BRCT modules to interact forming homo...; Region: BRCT; cd00027
+1673120	5627	5629	NM_007300.3	Dimer interface [polypeptide binding]; other site
+1673120	5639	5641	NM_007300.3	Dimer interface [polypeptide binding]; other site
+1673120	5648	5650	NM_007300.3	Dimer interface [polypeptide binding]; other site
+1673120	5657	5659	NM_007300.3	Dimer interface [polypeptide binding]; other site
+1673120	5663	5665	NM_007300.3	Dimer interface [polypeptide binding]; other site
+1673121	5804	5806	NM_007300.3	BRCT sequence motif; other site
+1673121	5816	5818	NM_007300.3	BRCT sequence motif; other site
+
+***
+
+NM_007300.3
+-
+2254	BRCA1	BRCA1
+2	2
+NP_009231.2
+233	5887
+41196312	41197694	UTR-3	7270	5888
+41197695	41197819	exon	5887	5763	5655	5531
+41197820	41199659	intron
+41199660	41199720	exon	5762	5702	5530	5470
+41199721	41201137	intron
+41201138	41201211	exon	5701	5628	5469	5396
+41201212	41203079	intron
+41203080	41203134	exon	5627	5573	5395	5341
+41203135	41209068	intron
+41209069	41209152	exon	5572	5489	5340	5257
+41209153	41215349	intron
+41215350	41215390	exon	5488	5448	5256	5216
+41215391	41215890	intron
+41215891	41215968	exon	5447	5370	5215	5138
+41215969	41219624	intron
+41219625	41219712	exon	5369	5282	5137	5050
+41219713	41222944	intron
+41222945	41223255	exon	5281	4971	5049	4739
+41223256	41226347	intron
+41226348	41226538	exon	4970	4780	4738	4548
+41226539	41228504	intron
+41228505	41228628	exon	4779	4656	4547	4424
+41228629	41231350	intron
+41231351	41231416	exon	4655	4590	4423	4358
+41231417	41234420	intron
+41234421	41234592	exon	4589	4418	4357	4186
+41234593	41242960	intron
+41242961	41243049	exon	4417	4329	4185	4097
+41243050	41243451	intron
+41243452	41246877	exon	4328	903	4096	671
+41246878	41247862	intron
+41247863	41247939	exon	902	826	670	594
+41247940	41249260	intron
+41249261	41249306	exon	825	780	593	548
+41249307	41251791	intron
+41251792	41251897	exon	779	674	547	442
+41251898	41256138	intron
+41256139	41256278	exon	673	534	441	302
+41256279	41256884	intron
+41256885	41256973	exon	533	445	301	213
+41256974	41258472	intron
+41258473	41258550	exon	444	367	212	135
+41258551	41267742	intron
+41267743	41267796	exon	366	313	134	81
+41267797	41276033	intron
+41276034	41276113	exon	312	233	80	1
+41276114	41276132	UTR-5	232	214
+41276133	41277287	intron
+41277288	41277500	UTR-5	213	1
+
+1673090	93	93	NM_007300.3	alternative transcription start site
+1673091	209	211	NM_007300.3	upstream in-frame stop codon
+1673093	299	436	NM_007300.3	RING-finger (Really Interesting New Gene) domain, a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc; defined by the 'cross-brace' motif C-X2-C-X(9-39)-C-X(1-3)- H-X(2-3)-(N/C/H)-X2-C-X(4-48)C-X2-C; probably involved in...; Region: RING; cd00162
+1673094	302	304	NM_007300.3	cross-brace motif; other site
+1673094	311	313	NM_007300.3	cross-brace motif; other site
+1673094	347	349	NM_007300.3	cross-brace motif; other site
+1673094	353	355	NM_007300.3	cross-brace motif; other site
+1673094	362	364	NM_007300.3	cross-brace motif; other site
+1673094	371	373	NM_007300.3	cross-brace motif; other site
+1673094	413	415	NM_007300.3	cross-brace motif; other site
+1673094	422	424	NM_007300.3	cross-brace motif; other site
+1673096	1154	1156	NM_007300.3	Phosphoserine, by AURKA; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673097	1262	1753	NM_007300.3	Serine-rich domain associated with BRCT; Region: BRCT_assoc; pfam12820
+1673098	1415	1417	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673099	1424	1426	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673101	2195	3166	NM_007300.3	Ethylene insensitive 3; Region: EIN3; pfam04873
+1673103	2489	2491	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673105	3659	3661	NM_007300.3	Phosphoserine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673106	3863	3865	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673107	3881	3883	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673108	3884	3886	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673109	4070	4072	NM_007300.3	Phosphoserine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673111	4238	4240	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673112	4256	4258	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673113	4391	4393	NM_007300.3	Phosphoserine, by ATM and ATR; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673114	4412	4414	NM_007300.3	Phosphothreonine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673115	4421	4504	NM_007300.3	propagated from UniProtKB/Swiss-Prot (P38398.2); Region: Interaction with PALB2
+1673116	4499	4501	NM_007300.3	Phosphoserine, by ATM and ATR; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673117	4664	4666	NM_007300.3	Phosphoserine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673118	4865	4867	NM_007300.3	Phosphoserine, by ATM; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673122	7245	7250	NM_007300.3	
+1673123	7270	7270	NM_007300.3	
+1673092	290	427	NM_007300.3	Zinc finger, C3HC4 type (RING finger); Region: zf-C3HC4_2; pfam13923
+1673095	572	574	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673100	1499	1501	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673102	2312	2314	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673104	3194	3196	NM_007300.3	Phosphoserine, by CHEK2; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673110	4214	4216	NM_007300.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1673119	5582	5821	NM_007300.3	Breast Cancer Suppressor Protein (BRCA1), carboxy-terminal domain. The BRCT domain is found within many DNA damage repair and cell cycle checkpoint proteins. The unique diversity of this domain superfamily allows BRCT modules to interact forming homo...; Region: BRCT; cd00027
+1673120	5627	5629	NM_007300.3	Dimer interface [polypeptide binding]; other site
+1673120	5639	5641	NM_007300.3	Dimer interface [polypeptide binding]; other site
+1673120	5648	5650	NM_007300.3	Dimer interface [polypeptide binding]; other site
+1673120	5657	5659	NM_007300.3	Dimer interface [polypeptide binding]; other site
+1673120	5663	5665	NM_007300.3	Dimer interface [polypeptide binding]; other site
+1673121	5804	5806	NM_007300.3	BRCT sequence motif; other site
+1673121	5816	5818	NM_007300.3	BRCT sequence motif; other site
+
+***
+
+NM_007294.3
+-
+2254	BRCA1	BRCA1
+1	2
+NP_009225.1
+233	5824
+41196312	41197694	UTR-3	7207	5825
+41197695	41197819	exon	5824	5700	5592	5468
+41197820	41199659	intron
+41199660	41199720	exon	5699	5639	5467	5407
+41199721	41201137	intron
+41201138	41201211	exon	5638	5565	5406	5333
+41201212	41203079	intron
+41203080	41203134	exon	5564	5510	5332	5278
+41203135	41209068	intron
+41209069	41209152	exon	5509	5426	5277	5194
+41209153	41215349	intron
+41215350	41215390	exon	5425	5385	5193	5153
+41215391	41215890	intron
+41215891	41215968	exon	5384	5307	5152	5075
+41215969	41219624	intron
+41219625	41219712	exon	5306	5219	5074	4987
+41219713	41222944	intron
+41222945	41223255	exon	5218	4908	4986	4676
+41223256	41226347	intron
+41226348	41226538	exon	4907	4717	4675	4485
+41226539	41228504	intron
+41228505	41228631	exon	4716	4590	4484	4358
+41228632	41234420	intron
+41234421	41234592	exon	4589	4418	4357	4186
+41234593	41242960	intron
+41242961	41243049	exon	4417	4329	4185	4097
+41243050	41243451	intron
+41243452	41246877	exon	4328	903	4096	671
+41246878	41247862	intron
+41247863	41247939	exon	902	826	670	594
+41247940	41249260	intron
+41249261	41249306	exon	825	780	593	548
+41249307	41251791	intron
+41251792	41251897	exon	779	674	547	442
+41251898	41256138	intron
+41256139	41256278	exon	673	534	441	302
+41256279	41256884	intron
+41256885	41256973	exon	533	445	301	213
+41256974	41258472	intron
+41258473	41258550	exon	444	367	212	135
+41258551	41267742	intron
+41267743	41267796	exon	366	313	134	81
+41267797	41276033	intron
+41276034	41276113	exon	312	233	80	1
+41276114	41276132	UTR-5	232	214
+41276133	41277287	intron
+41277288	41277500	UTR-5	213	1
+
+1639953	93	93	NM_007294.3	alternative transcription start site
+1639954	209	211	NM_007294.3	upstream in-frame stop codon
+1639956	299	436	NM_007294.3	RING-finger (Really Interesting New Gene) domain, a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc; defined by the 'cross-brace' motif C-X2-C-X(9-39)-C-X(1-3)- H-X(2-3)-(N/C/H)-X2-C-X(4-48)C-X2-C; probably involved in...; Region: RING; cd00162
+1639957	302	304	NM_007294.3	cross-brace motif; other site
+1639957	311	313	NM_007294.3	cross-brace motif; other site
+1639957	347	349	NM_007294.3	cross-brace motif; other site
+1639957	353	355	NM_007294.3	cross-brace motif; other site
+1639957	362	364	NM_007294.3	cross-brace motif; other site
+1639957	371	373	NM_007294.3	cross-brace motif; other site
+1639957	413	415	NM_007294.3	cross-brace motif; other site
+1639957	422	424	NM_007294.3	cross-brace motif; other site
+1639959	1154	1156	NM_007294.3	Phosphoserine, by AURKA; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639960	1262	1753	NM_007294.3	Serine-rich domain associated with BRCT; Region: BRCT_assoc; pfam12820
+1639961	1415	1417	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639962	1424	1426	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639964	1757	1759	NM_007294.3	phosphorylation site
+1639965	2195	3166	NM_007294.3	Ethylene insensitive 3; Region: EIN3; pfam04873
+1639967	2489	2491	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639968	3194	3196	NM_007294.3	Phosphoserine, by CHEK2; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639969	3659	3661	NM_007294.3	Phosphoserine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639970	3695	3697	NM_007294.3	proteolytic cleavage site; modified site
+1639971	3797	3799	NM_007294.3	phosphorylation site
+1639972	3863	3865	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639973	3866	3868	NM_007294.3	phosphorylation site
+1639974	3881	3883	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639975	3884	3886	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639976	3947	3949	NM_007294.3	phosphorylation site
+1639977	3965	3967	NM_007294.3	phosphorylation site
+1639978	4070	4072	NM_007294.3	Phosphoserine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639980	4220	4222	NM_007294.3	phosphorylation site
+1639981	4238	4240	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639982	4256	4258	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639983	4391	4393	NM_007294.3	Phosphoserine, by ATM and ATR; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639984	4412	4414	NM_007294.3	Phosphothreonine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639985	4421	4504	NM_007294.3	propagated from UniProtKB/Swiss-Prot (P38398.2); Region: Interaction with PALB2
+1639986	4499	4501	NM_007294.3	Phosphoserine, by ATM and ATR; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639987	4601	4603	NM_007294.3	Phosphoserine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639988	4628	4630	NM_007294.3	phosphorylation site
+1639989	4721	4723	NM_007294.3	phosphorylation site
+1639990	4727	4729	NM_007294.3	phosphorylation site
+1639991	4802	4804	NM_007294.3	Phosphoserine, by ATM; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639992	4856	4858	NM_007294.3	phosphorylation site
+1639993	4946	4948	NM_007294.3	phosphorylation site
+1639994	5330	5332	NM_007294.3	phosphorylation site
+1639995	5390	5392	NM_007294.3	phosphorylation site
+1639999	7182	7187	NM_007294.3	
+1640000	7207	7207	NM_007294.3	
+1639955	290	427	NM_007294.3	Zinc finger, C3HC4 type (RING finger); Region: zf-C3HC4_2; pfam13923
+1639958	572	574	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639963	1499	1501	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639966	2312	2314	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639979	4214	4216	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639996	5519	5758	NM_007294.3	Breast Cancer Suppressor Protein (BRCA1), carboxy-terminal domain. The BRCT domain is found within many DNA damage repair and cell cycle checkpoint proteins. The unique diversity of this domain superfamily allows BRCT modules to interact forming homo...; Region: BRCT; cd00027
+1639997	5564	5566	NM_007294.3	Dimer interface [polypeptide binding]; other site
+1639997	5576	5578	NM_007294.3	Dimer interface [polypeptide binding]; other site
+1639997	5585	5587	NM_007294.3	Dimer interface [polypeptide binding]; other site
+1639997	5594	5596	NM_007294.3	Dimer interface [polypeptide binding]; other site
+1639997	5600	5602	NM_007294.3	Dimer interface [polypeptide binding]; other site
+1639998	5741	5743	NM_007294.3	BRCT sequence motif; other site
+1639998	5753	5755	NM_007294.3	BRCT sequence motif; other site
+
+***
+
+NM_007294.3
+-
+2254	BRCA1	BRCA1
+2	2
+NP_009225.1
+233	5824
+41196312	41197694	UTR-3	7207	5825
+41197695	41197819	exon	5824	5700	5592	5468
+41197820	41199659	intron
+41199660	41199720	exon	5699	5639	5467	5407
+41199721	41201137	intron
+41201138	41201211	exon	5638	5565	5406	5333
+41201212	41203079	intron
+41203080	41203134	exon	5564	5510	5332	5278
+41203135	41209068	intron
+41209069	41209152	exon	5509	5426	5277	5194
+41209153	41215349	intron
+41215350	41215390	exon	5425	5385	5193	5153
+41215391	41215890	intron
+41215891	41215968	exon	5384	5307	5152	5075
+41215969	41219624	intron
+41219625	41219712	exon	5306	5219	5074	4987
+41219713	41222944	intron
+41222945	41223255	exon	5218	4908	4986	4676
+41223256	41226347	intron
+41226348	41226538	exon	4907	4717	4675	4485
+41226539	41228504	intron
+41228505	41228631	exon	4716	4590	4484	4358
+41228632	41234420	intron
+41234421	41234592	exon	4589	4418	4357	4186
+41234593	41242960	intron
+41242961	41243049	exon	4417	4329	4185	4097
+41243050	41243451	intron
+41243452	41246877	exon	4328	903	4096	671
+41246878	41247862	intron
+41247863	41247939	exon	902	826	670	594
+41247940	41249260	intron
+41249261	41249306	exon	825	780	593	548
+41249307	41251791	intron
+41251792	41251897	exon	779	674	547	442
+41251898	41256138	intron
+41256139	41256278	exon	673	534	441	302
+41256279	41256884	intron
+41256885	41256973	exon	533	445	301	213
+41256974	41258472	intron
+41258473	41258550	exon	444	367	212	135
+41258551	41267742	intron
+41267743	41267796	exon	366	313	134	81
+41267797	41276033	intron
+41276034	41276113	exon	312	233	80	1
+41276114	41276132	UTR-5	232	214
+41276133	41277287	intron
+41277288	41277500	UTR-5	213	1
+
+1639953	93	93	NM_007294.3	alternative transcription start site
+1639954	209	211	NM_007294.3	upstream in-frame stop codon
+1639956	299	436	NM_007294.3	RING-finger (Really Interesting New Gene) domain, a specialized type of Zn-finger of 40 to 60 residues that binds two atoms of zinc; defined by the 'cross-brace' motif C-X2-C-X(9-39)-C-X(1-3)- H-X(2-3)-(N/C/H)-X2-C-X(4-48)C-X2-C; probably involved in...; Region: RING; cd00162
+1639957	302	304	NM_007294.3	cross-brace motif; other site
+1639957	311	313	NM_007294.3	cross-brace motif; other site
+1639957	347	349	NM_007294.3	cross-brace motif; other site
+1639957	353	355	NM_007294.3	cross-brace motif; other site
+1639957	362	364	NM_007294.3	cross-brace motif; other site
+1639957	371	373	NM_007294.3	cross-brace motif; other site
+1639957	413	415	NM_007294.3	cross-brace motif; other site
+1639957	422	424	NM_007294.3	cross-brace motif; other site
+1639959	1154	1156	NM_007294.3	Phosphoserine, by AURKA; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639960	1262	1753	NM_007294.3	Serine-rich domain associated with BRCT; Region: BRCT_assoc; pfam12820
+1639961	1415	1417	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639962	1424	1426	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639964	1757	1759	NM_007294.3	phosphorylation site
+1639965	2195	3166	NM_007294.3	Ethylene insensitive 3; Region: EIN3; pfam04873
+1639967	2489	2491	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639968	3194	3196	NM_007294.3	Phosphoserine, by CHEK2; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639969	3659	3661	NM_007294.3	Phosphoserine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639970	3695	3697	NM_007294.3	proteolytic cleavage site; modified site
+1639971	3797	3799	NM_007294.3	phosphorylation site
+1639972	3863	3865	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639973	3866	3868	NM_007294.3	phosphorylation site
+1639974	3881	3883	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639975	3884	3886	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639976	3947	3949	NM_007294.3	phosphorylation site
+1639977	3965	3967	NM_007294.3	phosphorylation site
+1639978	4070	4072	NM_007294.3	Phosphoserine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639980	4220	4222	NM_007294.3	phosphorylation site
+1639981	4238	4240	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639982	4256	4258	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639983	4391	4393	NM_007294.3	Phosphoserine, by ATM and ATR; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639984	4412	4414	NM_007294.3	Phosphothreonine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639985	4421	4504	NM_007294.3	propagated from UniProtKB/Swiss-Prot (P38398.2); Region: Interaction with PALB2
+1639986	4499	4501	NM_007294.3	Phosphoserine, by ATM and ATR; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639987	4601	4603	NM_007294.3	Phosphoserine, by ATR, in vitro; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639988	4628	4630	NM_007294.3	phosphorylation site
+1639989	4721	4723	NM_007294.3	phosphorylation site
+1639990	4727	4729	NM_007294.3	phosphorylation site
+1639991	4802	4804	NM_007294.3	Phosphoserine, by ATM; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639992	4856	4858	NM_007294.3	phosphorylation site
+1639993	4946	4948	NM_007294.3	phosphorylation site
+1639994	5330	5332	NM_007294.3	phosphorylation site
+1639995	5390	5392	NM_007294.3	phosphorylation site
+1639999	7182	7187	NM_007294.3	
+1640000	7207	7207	NM_007294.3	
+1639955	290	427	NM_007294.3	Zinc finger, C3HC4 type (RING finger); Region: zf-C3HC4_2; pfam13923
+1639958	572	574	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639963	1499	1501	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639966	2312	2314	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639979	4214	4216	NM_007294.3	Phosphoserine; propagated from UniProtKB/Swiss-Prot (P38398.2); phosphorylation site
+1639996	5519	5758	NM_007294.3	Breast Cancer Suppressor Protein (BRCA1), carboxy-terminal domain. The BRCT domain is found within many DNA damage repair and cell cycle checkpoint proteins. The unique diversity of this domain superfamily allows BRCT modules to interact forming homo...; Region: BRCT; cd00027
+1639997	5564	5566	NM_007294.3	Dimer interface [polypeptide binding]; other site
+1639997	5576	5578	NM_007294.3	Dimer interface [polypeptide binding]; other site
+1639997	5585	5587	NM_007294.3	Dimer interface [polypeptide binding]; other site
+1639997	5594	5596	NM_007294.3	Dimer interface [polypeptide binding]; other site
+1639997	5600	5602	NM_007294.3	Dimer interface [polypeptide binding]; other site
+1639998	5741	5743	NM_007294.3	BRCT sequence motif; other site
+1639998	5753	5755	NM_007294.3	BRCT sequence motif; other site

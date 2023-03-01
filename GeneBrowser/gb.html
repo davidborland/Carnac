@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>Variant Browser</title>
+  <link rel="stylesheet" href="d3.geneBrowser.css">
+<!-- <script src="http://d3js.org/d3.v3.js"></script> -->
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<!-- <script src="d3.v3.js"></script> -->
+<!-- <script src="d3.v3.min.js"></script> -->
+  <script src="d3.geneBrowser.js"></script>
+</head>
+
+<body>
+  
+Gene Mapping <select id="geneMapping">
+  <option value="height">Height</option>
+  <option value="color">Color</option>
+  <option value="combo">Combo</option>
+</select>
+Gene Height<input type="range" name="geneHeight" id="geneHeight" min="5" max="50" value="30">
+Transcript Height<input type="range" name="transcriptHeight" id="transcriptHeight" min="2" max="25" value="5">
+Spacing<input type="range" name="spacing" id="spacing" min="-5" max="25" value="10">
+Show Transcripts<input type="checkbox" id="showTranscripts" checked>
+Corner Radius<input type="range" name="cornerRadius" id="cornerRadius" min="0" max="10" value="2">
+<p>
+  
+<script type="text/javascript">
+  
+createGUI();
+  
+var dispatch = d3.dispatch("select_variant");
+
+var gb = d3.geneBrowser()
+    .width(1024);   
+
+d3.text("brca1_reduced.txt", function(error, transcripts) {
+//  var data = generateTranscripts();  
+  var data = parseTranscripts(transcripts);
+
+  d3.select("body").append("g")
+      .datum(data)
+    .call(gb);  
+});
+
+function createGUI() {
+  d3.select("#geneMapping")
+      .on("change", function() {
+        gb.geneMapping(this.value);
+      });
+  
+  d3.select("#geneHeight")
+      .on("input", function() {
+        gb.geneHeight(+this.value);
+      });
+      
+  d3.select("#transcriptHeight")
+      .on("input", function() {
+        gb.transcriptHeight(+this.value);
+      });
+      
+  d3.select("#spacing")
+      .on("input", function() {
+        gb.spacing(+this.value);
+      });
+      
+  d3.select("#showTranscripts")
+      .on("change", function() {
+        gb.showTranscripts(this.checked);
+      });
+      
+  d3.select("#cornerRadius")
+      .on("input", function() {
+        gb.cornerRadius(+this.value);
+      });
+}
+
+function parseTranscripts(transcripts) {
+  var strings = transcripts.split("\n");
+  
+  var gene = { name: "BRCA1", transcripts: [] };
+  
+  var state = "findStart";
+  var transcript = { regions: [] };
+  for (var i = 0; i < strings.length; i++) {
+    var s = strings[i];
+    switch (state) {
+      case "findStart":
+        if (s[0] === "-" || s[1] === "+") {
+          transcript.direction = s;
+          i += 4;
+          state = "parseRegions";
+        }
+        break;
+        
+      case "parseRegions":
+        if (s.length <= 1) {
+          gene.transcripts.push(transcript);
+          state = "findStart";
+          transcript = { regions: [] };
+        }
+        else {
+          var s2 = s.split("\t");
+          transcript.regions.push({ type: s2[2].trim(), start: +s2[0], stop: +s2[1] });
+        }
+        break;
+    }
+  }
+  return gene;
+}
+
+function generateTranscripts() {
+  var maxNumber = 10;
+  var numTranscripts = Math.floor(Math.random() * maxNumber) + 1;
+  
+  var gene = { name: "TestGene", transcripts: [] };
+
+  for (var i = 0; i < numTranscripts; i++) {
+    gene.transcripts.push(generateTranscript(i + 1));
+  }
+  
+  return gene;
+}
+
+function generateTranscript(i) {
+  var transcript = { name: "TestTranscript_" + i, regions: [] };
+  
+  var maxNumber = 20;
+  var minNumber = 3;
+  var numRegions = Math.floor(Math.random() * (maxNumber - minNumber)) + minNumber;
+  var maxLength = 2000;
+  
+  var pos = 1;    
+  for (var i = 0; i < numRegions; i++) {
+    var type = i === 0 ? "UTR-5" : 
+               i === numRegions - 1 ? "UTR-3" : 
+               i % 2 === 1 ? "exon" : 
+               "intron";
+
+    var length = Math.floor(Math.random() * maxLength) + 1;
+    transcript.regions.push({ type: type, start: pos, stop: pos + length - 1 });
+    pos += length;
+  }
+  
+  return transcript;
+}
+
+</script>
+</body>
+</html>

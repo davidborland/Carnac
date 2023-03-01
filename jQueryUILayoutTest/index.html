@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>jQuery UI Layout Test</title>
+  
+  <link type="text/css" rel="stylesheet" href="jquery-ui.min.css"/>
+  <link type="text/css" rel="stylesheet" href="theme.css"/>
+  <link type="text/css" rel="stylesheet" href="layout-default-latest.css"/>
+  
+  <script type="text/javascript" src="jquery-1.7.1.min.js"></script> 
+  <script type="text/javascript" src="jquery-ui.js"></script>
+  <script type="text/javascript" src="jquery.layout-latest.js"></script>  
+  <script type="text/javascript" src="d3.v3.js"></script>
+  
+<!--  <link type="text/css" rel="stylesheet" href="d3.summaryView.css"/> -->
+<!--    <link type="text/css" rel="stylesheet" href="d3.quantitativeSets.css"/> -->
+   
+<!--    <script type="text/javascript" src="d3.summaryView.js"></script> -->
+<!--    <script type="text/javascript" src="d3.quantitativeSets.js"></script> -->
+
+  <style type="text/css">
+  
+    .ui-layout-pane {
+      border: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+    
+    .ui-layout-resizer {
+      border: 1px solid #BBB;
+    }
+    
+    .container {
+      height: 100%; 
+      padding: 0 !important; // Why is this necessary?
+    }
+    
+	</style>
+
+
+</head>
+
+<!-- Set up page -->
+<body>    
+
+<div id="patientInfoDiv" class="ui-layout-north">
+  Patient Information 
+</div>
+
+<div id="variantSelectionTabs" class="ui-layout-west">
+  <div class="ui-state-default" style="padding: 2px; text-align: center;">Variant Selection</div>
+  <ul>
+    <li><a href="#variantList"><span>List</span></a></li>
+    <li><a href="#variantScatterPlot"><span>Scatter Plot</span></a></li>
+  </ul>
+  <div id="variantList" class="container">
+    <div class="ui-layout-north">
+    </div>
+    <div class="ui-layout-center">
+    </div>
+  </div>
+  <div id="variantScatterPlot">
+  </div>
+</div>
+
+<div id="provenanceDiv" class="ui-layout-east">
+  <div class="ui-layout-north">
+  </div>
+  <div class="ui-layout-center">
+  </div>
+</div>
+
+<div class="ui-layout-center">
+  <div id="geneBrowserDiv" class="ui-layout-north">
+  </div>
+  <div id="detailsDiv" class="ui-layout-center">
+  </div>
+</div>
+
+<script>
+
+// Execute function body when the HTML document is ready
+$(document).ready(function() {
+/*
+  // Create d3 visualizations
+  var qs = d3.quantitativeSets();
+    
+  var sv = d3.summaryView()
+      .on("showDimension", function(name, selected) {
+        qs.showDimension(name, selected);
+      });
+*/            
+  // Create jQuery UI layout
+  createLayout();
+  
+  // Create jquery-ui layout
+  function createLayout() {
+    $("#variantSelectionTabs").tabs();
+  
+    var layout = $("body").layout({
+      north__resizable: false,
+      north__size: 50,
+      west__size: 300,
+      east__size: 300,
+      east__childOptions: {
+        north__size: 100
+      },
+      center__childOptions: {
+        north__size: 300
+      },
+      center__onresize: function(pane, $pane, paneState, paneOptions) {
+/*      
+        qs  .width(paneState.innerWidth)
+            .height(paneState.innerHeight);
+*/            
+      },
+    }).resizeAll();
+    
+    $("#variantList").layout({
+      north__size: 100
+    }).resizeAll();
+  }
+});
+
+</script>
+
+</body>
+</html>
